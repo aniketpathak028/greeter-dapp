@@ -71,7 +71,7 @@ function App() {
         <div>
           <input
             onChange={(e) => setNewGreeting(e.target.value)}
-            placeholder="Set greeting"
+            placeholder="type a new message"
             value={newGreeting}
           />
         </div>
