@@ -1,10 +1,18 @@
 html {
   background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .App {
+  margin-top: 30px;
   text-align: center;
   color: white;
+  padding: 20px 30px;
+  width: 800px;
+  border: 2px solid rgb(128, 253, 243);
+  box-shadow: 4px 6px rgb(255, 253, 253);
 }
 
 .header {
@@ -72,6 +80,30 @@ input {
   box-shadow: 1px 2px rgb(248, 248, 153);
 }
 
-.message {
-  text-decoration: underline red;
+h2 {
+  margin-bottom: 0;
 }
+
+.message{
+   position: relative;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.double-underline:after, .double-underline:before{
+   content: "";
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  background-color:red;
+  display: block;
+  height: 3px;
+}
+.double-underline:after {
+   bottom: -25px;
+  left: 30px;
+ }
+
+.double-underline:before {
+   bottom: -20px;
+ }

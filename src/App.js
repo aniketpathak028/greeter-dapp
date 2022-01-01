@@ -63,9 +63,9 @@ function App() {
           <button onClick={fetchGreeting}>Fetch Greeting</button>
         </div>
 
-        <div>
+        <div className="message">
           <h2>The message is:- </h2>
-          <h2 className="message">{greeting}</h2>
+          <h2 className="double-underline">{greeting}</h2>
         </div>
 
         <div>
