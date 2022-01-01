@@ -6,7 +6,7 @@ import { ethers } from "ethers";
 import Greeter from "./artifacts/contracts/Greeter.sol/Greeter.json";
 
 // contract address
-const greeterAddress = "0x5fbdb2315678afecb367f032d93f642f64180aa3";
+const greeterAddress = "0xD5Be5731E468Ad53884ae0e6c439cd4A908eAe89";
 
 function App() {
   // store greeting in local state
