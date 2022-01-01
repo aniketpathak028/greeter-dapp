@@ -1,15 +1,29 @@
-# Basic Sample Hardhat Project
+# Greeter Dapp
+## _A Simple DApp to read and update content in the Etherium test-net (Ropsten's Test network)_
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Greeter is a decentraziled application build on the etherium network (Ropsten's test-net) which allows a public string varible declared in the smart contract to be read and updated by users. It is a very simple application to understand how the the etherium-network functions.
 
-Try running some of the following tasks:
+## How to use?
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Follow the steps below to use the demo:
+
+- Create a Metamask account incase if you don't have one [here](https://metamask.io/)
+- Head over to any [ropsten-test-faucet](https://faucet.ropsten.be/) provider to get free eths 
+- Now visit the demo website
+- In you metamask extension set your network to be ropsten network
+- Now you can fetch greetings and set them too! :)
+
+
+
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/74519511/147845686-38b117e0-3a12-4817-a4ff-003ebe311532.mp4
+
+
+
+   
