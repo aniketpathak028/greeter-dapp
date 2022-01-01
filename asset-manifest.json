@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/greeter-dapp/static/css/main.4f997ffb.css",
+    "main.js": "/greeter-dapp/static/js/main.b67a223e.js",
+    "index.html": "/greeter-dapp/index.html",
+    "main.4f997ffb.css.map": "/greeter-dapp/static/css/main.4f997ffb.css.map",
+    "main.b67a223e.js.map": "/greeter-dapp/static/js/main.b67a223e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f997ffb.css",
+    "static/js/main.b67a223e.js"
+  ]
+}
