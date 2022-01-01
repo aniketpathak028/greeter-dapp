@@ -3,13 +3,15 @@
 
 Greeter is a decentraziled application build on the etherium network (Ropsten's test-net) which allows a public string varible declared in the smart contract to be read and updated by users. It is a very simple application to understand how the the etherium-network functions.
 
+[deployed-link](https://aniketpathak028.github.io/greeter-dapp/)
+
 ## How to use?
 
 Follow the steps below to use the demo:
 
 - Create a Metamask account incase if you don't have one [here](https://metamask.io/)
 - Head over to any [ropsten-test-faucet](https://faucet.ropsten.be/) provider to get free eths 
-- Now visit the demo website
+- Now visit the demo website [here](https://aniketpathak028.github.io/greeter-dapp/)
 - In you metamask extension set your network to be ropsten network
 - Now you can fetch greetings and set them too! :)
 
