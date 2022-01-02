@@ -3,7 +3,6 @@
 
 Greeter is a decentraziled application build on the etherium network (Ropsten's test-net) which allows a public string varible declared in the smart contract to be read and updated by users. It is a very simple application to understand how the the etherium-network functions.
 
-[deployed-link](https://aniketpathak028.github.io/greeter-dapp/)
 
 ## How to use?
 
