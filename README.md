@@ -10,7 +10,7 @@ Follow the steps below to use the demo:
 
 - Create a Metamask account incase if you don't have one [here](https://metamask.io/)
 - Head over to any [ropsten-test-faucet](https://faucet.ropsten.be/) provider to get free eths 
-- Now visit the demo website [here](https://aniketpathak028.github.io/greeter-dapp/)
+- Now visit the live website @ [here](https://aniketpathak028.github.io/greeter-dapp/)
 - In you metamask extension set your network to be ropsten network
 - Now you can fetch greetings and set them too! :)
 
